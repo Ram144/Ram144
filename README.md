@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ram144
 - 👀 I’m interested in Technologie, Engineering ,Python,Cloud Computing , Data Analysis
-- 🌱 I’m currently learning Amazon Web Service (AWS) re/start Program 
+- 🌱 I’m currently (AWS) re/start Program graduate
 - 💞️ I’m looking to collaborate on Cloud Computing project or Web/mobile App
 - 📫 How to reach me https://www.linkedin.com/in/ramzi-znaidi-1111b81b4/
 
