@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ram144
 - 👀 I’m interested in Technologie, Engineering ,Cloud & DevOps.
-- 🌱 Currently i'm working as a devops engineer
 - 💞️ I’m looking to collaborate on Cloud & devops  project 
 - 📫 How to reach me https://www.linkedin.com/in/ramzi-znaidi-1111b81b4/
 
